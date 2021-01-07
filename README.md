@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+### The is my skills:
+
+
+<img src="./skills.svg">
+
 <!--
 **Anth3995/Anth3995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
