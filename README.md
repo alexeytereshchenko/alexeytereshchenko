@@ -1,4 +1,4 @@
-### Hi there! I'm Alex
+### Hi there! I'm Alexey
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
