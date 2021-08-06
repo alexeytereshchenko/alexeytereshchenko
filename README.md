@@ -4,13 +4,12 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=Typescript&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=Javascript&logoColor=007396)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 - 🌐 &nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
