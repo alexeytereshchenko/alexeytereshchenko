@@ -22,8 +22,8 @@
 <a href="https://github.com/Anth3995">
   <table>
   <tr>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anth3995&theme=dark&show_icons=true" /></td>
-      <td>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anth3995&theme=dark&layout=compact" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=oleksii-tereshchenko&theme=dark&show_icons=true" /></td>
+      <td>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksii-tereshchenko&theme=dark&layout=compact" /></td>
   </tr>   
 </table>
 </a>
