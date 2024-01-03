@@ -11,7 +11,7 @@
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![Quarkus](https://img.shields.io/badge/-Quarkus-333?style=flat&logo=quarkus&logoColor=blue&link=https%3A%2F%2Fquarkus.io%2F)
 - 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
